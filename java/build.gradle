@@ -7,6 +7,14 @@ repositories {
 
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.4'
-	testCompile 'junit:junit:4.11'
+	testCompile 'junit:junit:4.12'
 	testCompile "org.spockframework:spock-core:1.0-groovy-2.4"
+
+    // Chapter 11
+    testCompile "org.hsqldb:hsqldb:2.3.1"
+    testCompile 'org.eclipse.jetty:jetty-server:9.0.7.v20131107'
+    testCompile 'org.eclipse.jetty:jetty-webapp:9.0.7.v20131107'
+    testCompile 'net.sourceforge.htmlunit:htmlunit:2.13'
 }
+
+
