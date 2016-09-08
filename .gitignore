@@ -5,7 +5,6 @@ bin/
 obj/
 packages/
 *.suo
-AssemblyInfo.cs
 
 .idea/
 *.iml
