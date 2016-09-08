@@ -11,6 +11,7 @@ dependencies {
 	testCompile "org.spockframework:spock-core:1.0-groovy-2.4"
 
     // Chapter 11
+    compile "org.springframework:spring-web:4.2.6.RELEASE"
     testCompile "org.hsqldb:hsqldb:2.3.1"
     testCompile "com.github.tomakehurst:wiremock:1.57"
     testCompile 'org.eclipse.jetty:jetty-server:9.0.7.v20131107'
