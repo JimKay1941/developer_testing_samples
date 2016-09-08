@@ -1,5 +1,11 @@
 .gradle/
 build/
 
+bin/
+obj/
+packages/
+*.suo
+AssemblyInfo.cs
+
 .idea/
 *.iml
