@@ -1,7 +1,5 @@
-package chaper11.stockmonitor
+package chapter11.stockmonitor
 
-import chapter11.stockmonitor.ContactInformation
-import chapter11.stockmonitor.StockMonitor
 import com.github.tomakehurst.wiremock.junit.WireMockRule
 import org.junit.Rule
 import spock.lang.Specification

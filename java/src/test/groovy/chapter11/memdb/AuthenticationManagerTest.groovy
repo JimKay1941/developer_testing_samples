@@ -1,6 +1,5 @@
-package chaper11.memdb
+package chapter11.memdb
 
-import chapter11.memdb.AuthenticationManager
 import groovy.sql.Sql
 import spock.lang.Shared
 import spock.lang.Specification
