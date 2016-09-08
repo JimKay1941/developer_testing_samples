@@ -12,6 +12,7 @@ dependencies {
 
     // Chapter 11
     testCompile "org.hsqldb:hsqldb:2.3.1"
+    testCompile "com.github.tomakehurst:wiremock:1.57"
     testCompile 'org.eclipse.jetty:jetty-server:9.0.7.v20131107'
     testCompile 'org.eclipse.jetty:jetty-webapp:9.0.7.v20131107'
     testCompile 'net.sourceforge.htmlunit:htmlunit:2.13'
