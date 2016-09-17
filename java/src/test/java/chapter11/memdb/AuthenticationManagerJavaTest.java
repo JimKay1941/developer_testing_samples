@@ -15,7 +15,7 @@ import static org.junit.Assert.assertTrue;
  * This test isn't in the book. It's the Java counterpart to the book's
  * example in Groovy.
  */
-public class AuthenticationManagerTest {
+public class AuthenticationManagerJavaTest {
 
     private static Connection conn;
 
