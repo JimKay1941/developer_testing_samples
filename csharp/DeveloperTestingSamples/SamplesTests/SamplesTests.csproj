@@ -54,6 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Chapter05\CodeContracts\TimeTest.cs" />
     <Compile Include="Chapter11\Mail\MailServiceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
