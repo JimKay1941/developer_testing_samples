@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Half-implemented authentication manager that works against a simepl database table.
+ * Half-implemented authentication manager that works against a simple database table.
  */
 public class AuthenticationManager {
 
