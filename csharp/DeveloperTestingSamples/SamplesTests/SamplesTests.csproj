@@ -56,6 +56,9 @@
   <ItemGroup>
     <Compile Include="Chapter05\CodeContracts\TimeTest.cs" />
     <Compile Include="Chapter11\Mail\MailServiceTest.cs" />
+    <Compile Include="Chapter12\Stubbing\CollaboratorStub.cs" />
+    <Compile Include="Chapter12\Stubbing\ParameterizedStub.cs" />
+    <Compile Include="Chapter12\Stubbing\StubbingTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -67,6 +70,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

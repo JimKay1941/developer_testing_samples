@@ -85,6 +85,9 @@
   <ItemGroup>
     <Compile Include="Chapter11\Mail\MailService.cs" />
     <Compile Include="Chapter05\CodeContracts\Time.cs" />
+    <Compile Include="Chapter12\Stubbing\ConcreteCollaborator.cs" />
+    <Compile Include="Chapter12\Stubbing\ICollaborator.cs" />
+    <Compile Include="Chapter12\Stubbing\TestedObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
