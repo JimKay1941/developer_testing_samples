@@ -9,7 +9,6 @@ dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.4'
 	testCompile 'junit:junit:4.12'
     testCompile 'org.hamcrest:hamcrest-all:1.3'
-
     testCompile 'org.mockito:mockito-all:1.10.16'
 	testCompile "org.spockframework:spock-core:1.0-groovy-2.4"
 
@@ -23,6 +22,9 @@ dependencies {
     testCompile 'org.eclipse.jetty:jetty-server:9.0.7.v20131107'
     testCompile 'org.eclipse.jetty:jetty-webapp:9.0.7.v20131107'
     testCompile 'net.sourceforge.htmlunit:htmlunit:2.13'
+
+    // Chapter 16
+    compile 'joda-time:joda-time:2.6'
 }
 
 
