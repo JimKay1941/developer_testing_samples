@@ -88,6 +88,12 @@
     <Compile Include="Chapter12\Stubbing\ConcreteCollaborator.cs" />
     <Compile Include="Chapter12\Stubbing\ICollaborator.cs" />
     <Compile Include="Chapter12\Stubbing\TestedObject.cs" />
+    <Compile Include="Chapter16\CopyAndPaste\CustomerRepository.cs" />
+    <Compile Include="Chapter16\CopyAndPaste\Domain\Customer\Customer.cs" />
+    <Compile Include="Chapter16\CopyAndPaste\Domain\Networking\NetMask.cs" />
+    <Compile Include="Chapter16\CopyAndPaste\Domain\Networking\NetMaskIpV6.cs" />
+    <Compile Include="Chapter16\CopyAndPaste\NetworkInterface.cs" />
+    <Compile Include="Chapter16\MethodDuplication\DateUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
