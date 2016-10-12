@@ -83,6 +83,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chapter09\RaffleDependencies\Raffle.cs" />
+    <Compile Include="Chapter09\RaffleDependencies\RaffleWithFactoryMethod.cs" />
+    <Compile Include="Chapter09\RaffleDependencies\TicketsBuilder.cs" />
+    <Compile Include="Chapter09\RaffleDependencies\TicketsFactory.cs" />
     <Compile Include="Chapter11\Mail\MailService.cs" />
     <Compile Include="Chapter05\CodeContracts\Time.cs" />
     <Compile Include="Chapter12\Stubbing\ConcreteCollaborator.cs" />
